@@ -1,0 +1,17 @@
+header {
+    background-color: #000000;
+}
+
+header a {
+    color: #fff;
+}
+
+#button-primary {
+    background-color: red;
+    color: #fff;
+}
+
+.item-nav {
+    background-color: blue;
+    color: #fff;
+}
